@@ -1,3 +1,10 @@
 Dieses Python-Projekt zeigt das aktuelle Wetter für Mannheim, Berlin, Sevastopol und Kiev.
+
 Zuerst wurde Python installiert und die Bibliothek requests eingerichtet.
-Das Skript Wettervorhersage.py sendet Anfragen an die OpenWeather API, liest die Temperatur, die gefühlte Temperatur und die Wetterbeschreibung für jede Stadt aus. Die Daten werden im Terminal angezeigt und zusätzlich in der HTML-Datei wetter.html gespeichert. Die HTML-Datei basiert auf index.html und verwendet style.css für eine ansprechende Darstellung. README.md enthält eine kurze Beschreibung für GitHub, und diese Projektdokumentation erklärt den Ablauf, die Struktur und die Funktionsweise. Um das Projekt auszuführen, installiert man Python, installiert requests über pip und startet das Skript mit python Wettervorhersage.py, wodurch die Wetterdaten sowohl im Terminal als auch im Browser angezeigt werden.
+
+Das Skript Wettervorhersage.py sendet Anfragen an die OpenWeather API, liest die Temperatur, die gefühlte Temperatur und die Wetterbeschreibung für jede Stadt aus. 
+
+Die Daten werden im Terminal angezeigt und zusätzlich in der HTML-Datei wetter.html gespeichert.
+
+Die HTML-Datei basiert auf index.html und verwendet style.css für eine ansprechende Darstellung. 
+
