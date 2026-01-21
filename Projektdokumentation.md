@@ -55,9 +55,13 @@ Wettervorhersage.py – Python-Skript, das die API abfragt und HTML generiert
  Projektdokumentation.md – ausführliche Projektbeschreibung
 
 Beispielhafte Ausgabe im Terminal:
+
 Mannheim (19.01.2026 10:17) 1.93°C -0.28°C Bedeckt
+
 Berlin (19.01.2026 10:17) -0.63°C -5.79°C Klarer Himmel
+
 Sevastopol (19.01.2026 10:17) -1.11°C -4.05°C Mäßig bewölkt
+
 Kiev (19.01.2026 10:17) -9.49°C -9.49°C Mäßig bewölkt
 
 Beispielhafte Anzeige in HTML:
