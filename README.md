@@ -92,3 +92,5 @@ Gib die gewünschten Städtenamen in der Konsole ein.
 
 Nach der Eingabe werden die Ergebnisse in der Konsole angezeigt und die HTML-Datei wetter.html automatisch geöffnet.
 
+<!-- Update: README und Icons zusammen hinzugefügt -->
+
