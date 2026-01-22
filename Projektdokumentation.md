@@ -17,11 +17,12 @@ Die Ausgabe erfolgt sowohl in der Konsole als auch in einer HTML-Tabelle im Brow
 
 Wetter-Icons zeigen Sonne, Wolken, Regen, Schnee, Wind oder Sonne+Wolken an.
 
-### Screenshot in der Konsole
+### Beispielhafte Ausgabe in der Konsole
+
 ![Konsole Screenshot](icons/ScreenKonsol.png)
 
 
-### Screenshot im Browser
+### Beispielhafte Ausgabe im Browser
 ![Browser Screenshot](icons/ScreenBrowser.png)
 
 
@@ -91,5 +92,6 @@ Bibliotheken: requests, datetime, webbrowser
 Wetter-API: OpenWeatherMap (API-Key erforderlich)
 
 HTML/CSS für Darstellung der Tabelle und Icons.
+
 
 
