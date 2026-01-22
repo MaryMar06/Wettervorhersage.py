@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2f3;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 70%;
+    table-layout: fixed; /* gleichmäßige Spaltenbreite */
+}
+
+th, td {
+    border: 1px solid #888;
+    padding: 10px;
+    text-align: left; /* linksbündige Ausrichtung */
+    vertical-align: middle;
+}
+
+th {
+    background-color: #2196F3;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+/* Symbole */
+.icon {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
