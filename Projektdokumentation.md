@@ -19,11 +19,11 @@ Wetter-Icons zeigen Sonne, Wolken, Regen, Schnee, Wind oder Sonne+Wolken an.
 
 ### Beispielhafte Ausgabe in der Konsole
 
-![Konsole Screenshot](icons/ScreenKonsol.png)
-
+![Konsole Screenshot](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenKonsol.png)
 
 ### Beispielhafte Ausgabe im Browser
-![Browser Screenshot](icons/ScreenBrowser.png)
+
+![Browser Screenshot](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenBrowser.png)
 
 
 Verwendete Dateien
@@ -92,6 +92,7 @@ Bibliotheken: requests, datetime, webbrowser
 Wetter-API: OpenWeatherMap (API-Key erforderlich)
 
 HTML/CSS für Darstellung der Tabelle und Icons.
+
 
 
 
