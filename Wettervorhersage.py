@@ -24,12 +24,12 @@ rows = ''
 
 # Icons für Wetter
 icons = {
-    'sun': 'sun.png',
-    'sun_cloud': 'sun_cloud.png',
-    'cloud': 'cloud.png',
-    'rain': 'rain.png',
-    'snow': 'snow.png',
-    'wind': 'wind.png'
+    'sun': 'icons/sun.png',
+    'sun_cloud': 'icons/sun_cloud.png',
+    'cloud': 'icons/cloud.png',
+    'rain': 'icons/rain.png',
+    'snow': 'icons/snow.png',
+    'wind': 'icons/wind.png'
 }
 
 for stadt in staedte:
