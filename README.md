@@ -12,11 +12,9 @@ Die Daten werden von der OpenWeatherMap API abgerufen und in einer HTML-Tabelle 
 
 ## Beispielhafte Ausgabe
 
-**Konsole:**  
-!\[Konsole](icons/ScreenKonsol.png)
+![Konsole](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenKonsol.png)
 
-**Browser:**  
-!\[Browser](icons/ScreenBrowser.png)
+![Browser](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenBrowser.png)
 
 ## Verwendete Dateien
 
