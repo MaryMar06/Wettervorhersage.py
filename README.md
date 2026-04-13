@@ -13,11 +13,10 @@ Die Daten werden von der OpenWeatherMap API abgerufen und in einer HTML-Tabelle 
 ## Beispielhafte Ausgabe
 
 **Konsole:**  
-!\[Konsole Screenshot](icons/ScreenKonsol.png)
+!\[Konsole](icons/ScreenKonsol.png)
 
 **Browser:**  
-!\[Browser Screenshot](icons/ScreenBrowser.png)
-
+!\[Browser](icons/ScreenBrowser.png)
 
 ## Verwendete Dateien
 
