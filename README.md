@@ -11,9 +11,10 @@ Die Daten werden von der OpenWeatherMap API abgerufen und in einer HTML-Tabelle 
 - Die Ausgabe erscheint sowohl in der Konsole als auch im Browser.
 
 ## Beispielhafte Ausgabe
-
+Konsole
 ![Konsole](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenKonsol.png)
 
+Browser
 ![Browser](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenBrowser.png)
 
 ## Verwendete Dateien
