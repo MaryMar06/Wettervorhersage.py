@@ -1,5 +1,5 @@
 
-Wettervorhersage Projekt – Projektdokumentation
+## Wettervorhersage Projekt – Projektdokumentation
 
 
 
@@ -25,7 +25,7 @@ Wetter-Icons zeigen Sonne, Wolken, Regen, Schnee, Wind oder Sonne+Wolken an.
 ![Browser Screenshot](icons/ScreenBrowser.png)
 
 
-Verwendete Dateien
+## Verwendete Dateien
 
 
 Wettervorhersage.py	Hauptskript, das Wetterdaten abruft und HTML generiert
@@ -40,7 +40,7 @@ wetter.html	Vom Skript erzeugte HTML-Datei
 
 screenshots/	Ordner für Beispiel-Screenshots (optional)
  
-Funktionsweise
+## Funktionsweise
 
 Städte auswählen:
 
@@ -68,7 +68,7 @@ Konsolenausgabe zeigt die aktuellen Werte der gewählten Städte.
 
 Browser öffnet automatisch die Datei wetter.html.
 
-Benutzeranleitung
+## Benutzeranleitung
 
 Stelle sicher, dass alle Dateien (Wettervorhersage.py, index.html, style.css, Icons) im selben Ordner liegen.
 
@@ -82,7 +82,7 @@ Gib, falls gewünscht, eine Stadt ein, um deren Wetter zu sehen.
 
 Die HTML-Datei wetter.html öffnet sich automatisch im Browser.
 
-Technische Hinweise
+## Technische Hinweise
 
 Programmiersprache: Python 3.x
 
