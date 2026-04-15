@@ -56,10 +56,8 @@ for stadt in staedte:
         else:
             icon = icons['cloud']
 
-        # Ausgabe in Konsole
         print(f'{stadt} ({zeit}): {temperatur}°C, gefühlt {gefuehlt}°C, {beschreibung}')
 
-        # Zeile für HTML erstellen
         rows += f"""
         <tr>
             <td>{stadt} ({zeit})</td>
@@ -76,10 +74,8 @@ for stadt in staedte:
         </tr>
         """
 
-# HTML aktualisieren
 html_inhalt = html_inhalt.replace(insert_marker, rows)
 
-# HTML speichern
 with open('wetter.html', 'w', encoding='utf-8') as datei:
     datei.write(html_inhalt)
 
