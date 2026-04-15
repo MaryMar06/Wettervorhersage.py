@@ -3,26 +3,22 @@ import requests
 from datetime import datetime
 import webbrowser
 
-# Pfad überprüfen
 print("Python sucht index.html hier:", os.path.abspath('index.html'))
 print("Inhalt des Verzeichnisses:")
 print(os.listdir())
 
-# API-Schlüssel
 api_schluessel = '972aafaa3761633381bef65cd97bfeb4'
 
 # Benutzer gibt Städte ein
 eingabe = input("Gib die Städte ein, getrennt durch Komma: ")
 staedte = [stadt.strip() for stadt in eingabe.split(",")]
 
-# HTML-Vorlage lesen
 with open('index.html', 'r', encoding='utf-8') as datei:
     html_inhalt = datei.read()
 
 insert_marker = '<!-- Python wird hier die Daten einfügen -->'
 rows = ''
 
-# Icons für Wetter
 icons = {
     'sun': 'icons/sun.png',
     'sun_cloud': 'icons/sun_cloud.png',
